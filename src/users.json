@@ -1,0 +1,56 @@
+﻿[
+	{
+		"data" : {
+			"firstName" : "Евгений",
+			"lastName" : "Касперский",
+			"age" : 54,
+			"country" : "Russia"
+		},
+		"_id" : "0"
+	},
+	{
+		"data" : {
+			"firstName" : "Elon",
+			"lastName" : "Musk",
+			"age" : 49,
+			"country" : "USA"
+		},
+		"_id" : "1"
+	},
+	{
+		"data" : {
+			"firstName" : "Mark",
+			"lastName" : "Zuckerberg",
+			"age" : 36,
+			"country" : "USA"
+		},
+		"_id" : "2"
+	},
+	{
+		"data" : {
+			"firstName" : "Евгений",
+			"lastName" : "Касперский",
+			"age" : 54,
+			"country" : "Russia"
+		},
+		"_id" : "3"
+	},
+	{
+		"data" : {
+			"firstName" : "Elon",
+			"lastName" : "Musk",
+			"age" : 49,
+			"country" : "USA"
+		},
+		"_id" : "4"
+	},
+	{
+		"data" : {
+			"firstName" : "Mark",
+			"lastName" : "Zuckerberg",
+			"age" : 36,
+			"country" : "USA"
+		},
+		"_id" : "5"
+	}
+]
